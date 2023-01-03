@@ -9,7 +9,7 @@
 <a>![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rogeriofsampaio&show_icons=true&theme=dark#gh-dark-mode-only)
 
   <a href="https://www.linkedin.com/in/rogeriofsampaio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rogeriofsampaio@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rogeriofsampaio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   <hr></hr>
 
