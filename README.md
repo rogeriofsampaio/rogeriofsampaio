@@ -1,4 +1,4 @@
-<h2>Olá eu sou o Rogerio Sampaio, Programador Front e Back-end em formação.</h2>
+<h2>Olá eu sou o Rogerio Sampaio, Programador Front e Back-end em constante aprendizagem.</h2>
 
 
 - 🔭 Estudando e desenvolvendo em Front-end e Back-end
