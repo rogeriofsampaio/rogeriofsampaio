@@ -38,9 +38,6 @@
     <a href="/https://github.com/rogeriofsampaio/rogeriofsampaio/graphs/contributors">
         <img alt="Laraval" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     </a>
-    <a href="/https://github.com/rogeriofsampaio/rogeriofsampaio/graphs/contributors">
-        <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    </a>
     
     
   <hr></hr>
